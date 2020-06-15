@@ -1,0 +1,2 @@
+class DisplayLocationsController < ApplicationController
+end
